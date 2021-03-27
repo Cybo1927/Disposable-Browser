@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Disposable</string>
+    <string name="website_favicon">Website favicon</string>
+    <string name="search_duckduckgo">Search DuckDuckGo</string>
+    <string name="share">Share</string>
+    <string name="view_source">View Source</string>
+    <string name="refresh">Refresh</string>
+</resources>
