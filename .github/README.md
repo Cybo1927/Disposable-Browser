@@ -1,2 +1,8 @@
-# Disposable-Browser
-This application is a simple throwaway browser. It's best for one-time searches, and once you're done and clear the app from recents it clears ***all*** application data.
+## Features:
+* After clearing from recents ***all*** data gets cleared
+* Screenshots and screen recordings are blocked for extra privacy
+* Progress bar auto hides
+* DuckDuckGo as the starting page and search engine (when searching through url bar)
+##### Menu:
+* Share url + title
+* View-source for current site
